@@ -3,4 +3,4 @@ Demonstrating how perturbing one pixel in a labelled 32 x 32 pixel image can dec
 
 Modules forked from: https://github.com/sreedath/one-pixel-attack-keras (I have updated according to latest versions)
 Resources: https://www.youtube.com/watch?v=_y1tIdnB__Y
-Paper: https://arxiv.org/pdf/1710.08864
+                                           Paper: https://arxiv.org/pdf/1710.08864
